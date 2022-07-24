@@ -8,6 +8,4 @@ Router Used to redirect to different page.
 
 UI Outlet:
 
-![image](https://user-images.githubusercontent.com/15225177/180670442-afeb13d9-73fb-4720-874a-58e8b5ea2126.png)
-
 ![image](https://user-images.githubusercontent.com/15225177/180670352-162bd1a9-086f-4136-931a-fe01c7ae3a22.png)
