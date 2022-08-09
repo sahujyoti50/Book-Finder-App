@@ -9,3 +9,5 @@ Router Used to redirect to different page.
 UI Outlet:
 
 ![image](https://user-images.githubusercontent.com/15225177/180670352-162bd1a9-086f-4136-931a-fe01c7ae3a22.png)
+
+![image](https://user-images.githubusercontent.com/15225177/183774766-ed229ecb-0723-47f3-b203-f7cba198889d.png)
